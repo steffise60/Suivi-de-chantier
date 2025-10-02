@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 chantier.db
 attachments/
+NUL
+attachments/
+*.db
+__pycache__/
+*.pyc
+.env
